@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxmdxn&label=Profile%20views&color=0e75b6&style=flat" alt="hxmdxn" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development**<br> and exploring various technical domains
 
 - 📫 How to reach me **hamdanmohammed01234@gmail.com**
 
