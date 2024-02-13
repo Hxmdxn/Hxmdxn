@@ -1,4 +1,3 @@
-![logo] (
 <h1 align="center">Hi 👋, I'm Hamdan Mohammed</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
