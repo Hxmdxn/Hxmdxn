@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Hamdan Mohammed</h1>
 <h3 align="center">A passionate Web developer from India</h3><br>
 <img align="right" alt="coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
@@ -6,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxmdxn&label=Profile%20views&color=0e75b6&style=flat" alt="hxmdxn" /> </p>
 <h2> 🌐 Socials:</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/770256046866038844) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hxmdx.n/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamdan-mohammed-3b88a225b/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/770256046866038844) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hxmdx.n/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamdan-mohammed-3b88a225b/) 
 
 
 
